@@ -1,0 +1,10 @@
+html,
+body {
+    display: grid;
+    text-align: center;
+    place-items: center;
+}
+
+li {
+    margin-bottom: 10px;
+}
